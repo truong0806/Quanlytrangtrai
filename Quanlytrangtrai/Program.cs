@@ -8,6 +8,9 @@ namespace Quanlytrangtrai
         {
             FarmingController Controll = new FarmingController();
             Console.WriteLine(Constent.BRAN_NAME);
+            Console.WriteLine(Constent.BRAN_NAME);
+            Console.WriteLine(Constent.BRAN_NAME);
+            Console.WriteLine(Constent.BRAN_NAME);
         }
     }
 }
