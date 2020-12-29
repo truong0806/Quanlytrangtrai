@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Quanlytrangtrai.Bran">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bran.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Food">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAASAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Grass">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Grass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Meat">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Meat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Corn">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Corn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.FarmingAnimal">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>FarmingAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Dog">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Cow">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Pig">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Chicken">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chicken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Constent" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AA8AAIABAAAAAAAAAkAAAAAAAIACBgAgACEAAAAAAAA=</HashCode>
+      <FileName>Constent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.FarmingController">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAgIAAAIKBQAACAEIAAAAAIAEAAAAAAA=</HashCode>
+      <FileName>FarmingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.FarmingAnimalController">
+    <Position X="6" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAAAAAAAAJAAAACAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FarmingAnimalController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quanlytrangtrai.Program" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
