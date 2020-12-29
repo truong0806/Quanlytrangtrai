@@ -10,8 +10,6 @@ namespace Quanlytrangtrai
             Console.WriteLine("Ten con vat can them: ");
             string name = Console.ReadLine();
             Console.WriteLine("So luong them: ");
-            int number = Convert.ToInt32(Console.ReadLine());
-            Controll.AddAnimal(name, number);
         }
     }
 }
